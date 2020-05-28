@@ -1,0 +1,6 @@
+framework module Pods_IPL_tvOSTests {
+  umbrella header "Pods-IPL-tvOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

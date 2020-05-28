@@ -1,0 +1,6 @@
+framework module Pods_IPLTests {
+  umbrella header "Pods-IPLTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074404306415",
+    "firebase_url": "https://collectedafdev.firebaseio.com",
+    "project_id": "collectedafdev",
+    "storage_bucket": "collectedafdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074404306415:android:d9c3edc8063a7eea249a1a",
+        "android_client_info": {
+          "package_name": "com.ipl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074404306415-aac4t9rmgv8me3tnfnhuinrbsd20ukl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ipl",
+            "certificate_hash": "0f868fe81c628afb8df7bb56313912c14824e8e9"
+          }
+        },
+        {
+          "client_id": "1074404306415-msfvu2uj3e5d98hp7t7n3ouspeqf90ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIwC1UhyIU7rJ0-ChOD63iI2T_fa8VM50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074404306415-msfvu2uj3e5d98hp7t7n3ouspeqf90ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
